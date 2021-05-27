@@ -35,4 +35,4 @@ Finished.
 Project inspired by Dev Ed, Brian Design, Tyler Potts.
 
 ## Contact
-Kacper Piasecki. INIS 3_1
+Kacper Piasecki. INIS PR3_1
