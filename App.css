@@ -1,0 +1,11 @@
+.App input, .App button{
+    margin: 20px;
+    padding:10px 20px;
+    border: 2px solid green;
+    transition: 1s;
+}
+.App button:hover{
+    background-color:black;
+    color: white;
+    border-color: black;
+}
